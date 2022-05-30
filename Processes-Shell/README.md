@@ -22,7 +22,7 @@ Included commands:
 * quit/exit/EOF
 
 ```sh
-yshell> wait
+myshell> wait
 myshell: process 346 exited normally with status 0
 
 myshell> wait
